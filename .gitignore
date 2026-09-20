@@ -1,0 +1,28 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Django
+*.sqlite3
+db.sqlite3
+
+# Environment variables
+.env
+.env.*
+
+# Node
+node_modules/
+dist/
+
+# Vite
+.vite/
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/*
+!.vscode/extensions.json
